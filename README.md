@@ -1,1 +1,10 @@
-Sample file from SIGCSE demo
+# Sample file from SIGCSE GitHub demo
+
+- GitHub
+- remote
+- fetch
+- merge
+- pull
+- Classroom
+- Discount
+- fake
